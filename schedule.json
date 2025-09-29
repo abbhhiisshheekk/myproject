@@ -71,7 +71,85 @@
       "10:30 AM - 12:30 PM": "AIML B - Batch C (FCSE practical)"
     }
   },
-  "Wednesday": {},
-  "Thursday": {},
-  "Friday": {}
+  "Wednesday": {
+    "447(A)": {
+      "08:15 AM - 10:15 AM": "COMP B - Batch A (EM practical)",
+      "10:30 AM - 12:30 PM": "COMP B - Batch B (EM practical)",
+      "01:00 PM - 03:00 PM": "COMP B - Batch C (EM practical)"
+    },
+    "228(A)": {
+      "08:15 AM - 10:15 AM": "ENTC - Batch A (FCSE practical)",
+      "10:30 AM - 12:30 PM": "ENTC - Batch B (FCSE practical)",
+      "01:00 PM - 03:00 PM": "ENTC - Batch C (FCSE practical)"
+    },
+    "429": {
+      "08:15 AM - 10:15 AM": "COMP B - Batch A (BXE practical)",
+      "10:30 AM - 12:30 PM": "COMP B - Batch B (BXE practical)",
+      "01:00 PM - 03:00 PM": "COMP B - Batch C (BXE practical)"
+    },
+    "305": {
+      "08:15 AM - 10:15 AM": "AIML A - Batch A (CHEM practical)",
+      "10:30 AM - 12:30 PM": "AIML A - Batch B (CHEM practical)",
+      "01:00 PM - 03:00 PM": "AIML A - Batch C (CHEM practical)"
+    },
+    "238(A)": {
+      "08:15 AM - 10:15 AM": "AIML B - Batch A (DT&IL practical)",
+      "10:30 AM - 12:30 PM": "AIML B - Batch B (DT&IL practical)",
+      "01:00 PM - 03:00 PM": "AIML B - Batch C (DT&IL practical)"
+    }
+  },
+  "Thursday": {
+    "447(B)": {
+      "08:15 AM - 10:15 AM": "COMP B - Batch A (EM practical)",
+      "10:30 AM - 12:30 PM": "COMP B - Batch B (EM practical)",
+      "01:00 PM - 03:00 PM": "COMP B - Batch C (EM practical)"
+    },
+    "228(B)": {
+      "08:15 AM - 10:15 AM": "COMP B - Batch A (FCSE practical)",
+      "10:30 AM - 12:30 PM": "COMP B - Batch B (FCSE practical)",
+      "01:00 PM - 03:00 PM": "COMP B - Batch C (FCSE practical)"
+    },
+    "429": {
+      "08:15 AM - 10:15 AM": "COMP B - Batch A (BXE practical)",
+      "10:30 AM - 12:30 PM": "COMP B - Batch B (BXE practical)",
+      "01:00 PM - 03:00 PM": "COMP B - Batch C (BXE practical)"
+    },
+    "305": {
+      "08:15 AM - 10:15 AM": "AIML B - Batch A (CHEM practical)",
+      "10:30 AM - 12:30 PM": "AIML B - Batch B (CHEM practical)",
+      "01:00 PM - 03:00 PM": "AIML B - Batch C (CHEM practical)"
+    },
+    "15(A)": {
+      "08:15 AM - 10:15 AM": "ENTC - Batch A (DT&IL practical)",
+      "10:30 AM - 12:30 PM": "ENTC - Batch B (DT&IL practical)",
+      "01:00 PM - 03:00 PM": "ENTC - Batch C (DT&IL practical)"
+    }
+  },
+  "Friday": {
+    "447(A)": {
+      "08:15 AM - 10:15 AM": "COMP B - Batch A (EM practical)",
+      "10:30 AM - 12:30 PM": "COMP B - Batch B (EM practical)",
+      "01:00 PM - 03:00 PM": "COMP B - Batch C (EM practical)"
+    },
+    "228(A)": {
+      "08:15 AM - 10:15 AM": "ENTC - Batch A (FCSE practical)",
+      "10:30 AM - 12:30 PM": "ENTC - Batch B (FCSE practical)",
+      "01:00 PM - 03:00 PM": "ENTC - Batch C (FCSE practical)"
+    },
+    "429": {
+      "08:15 AM - 10:15 AM": "COMP B - Batch A (BXE practical)",
+      "10:30 AM - 12:30 PM": "COMP B - Batch B (BXE practical)",
+      "01:00 PM - 03:00 PM": "COMP B - Batch C (BXE practical)"
+    },
+    "305": {
+      "08:15 AM - 10:15 AM": "AIML A - Batch A (CHEM practical)",
+      "10:30 AM - 12:30 PM": "AIML A - Batch B (CHEM practical)",
+      "01:00 PM - 03:00 PM": "AIML A - Batch C (CHEM practical)"
+    },
+    "238(A)": {
+      "08:15 AM - 10:15 AM": "AIML B - Batch A (DT&IL practical)",
+      "10:30 AM - 12:30 PM": "AIML B - Batch B (DT&IL practical)",
+      "01:00 PM - 03:00 PM": "AIML B - Batch C (DT&IL practical)"
+    }
+  }
 }
